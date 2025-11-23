@@ -1,4 +1,4 @@
-# EXPERIMENT8 : CONFIGURING THE APPLICATION SERVER FOR DATA VISUALIZATION
+# EXPERIMENT 8 : CONFIGURING THE APPLICATION SERVER FOR DATA VISUALIZATION
 ## AIM : To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
