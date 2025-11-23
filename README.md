@@ -1,5 +1,5 @@
-# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION
-## Aim: To  configure  the Application server and visualize the data on the dashboard 
+# EXPERIMENT8 : CONFIGURING THE APPLICATION SERVER FOR DATA VISUALIZATION
+## AIM : To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
  An application server is a modern form of platform middleware. It is system software that resides between the operating system (OS) on one side, the external resources (such as a database management system [DBMS], communications and Internet services) on another side and the users’ applications on the third side. The function of the application server is to act as host (or container) for the user’s business logic while facilitating access to and performance of the business application. The application server must perform despite the variable and competing traffic of client requests, hardware and software failures, the distributed nature of the larger-scale applications, and potential heterogeneity of data and processing resources required to fulfill the business requirements of the applications.
@@ -33,9 +33,87 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
+BULID CONFIGURATION 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/19ab3d33-bb1a-4f5d-bd11-b376ba2d8224" />
 
 
+AT COMMANDS
+
+<img width="1920" height="1200" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/c5d9a1af-7f58-491f-ad4d-c8458733ae0f" />
+
+
+<img width="1033" height="604" alt="image" src="https://github.com/user-attachments/assets/d46e411d-7072-458d-820c-7f427d11c0b5" />
+
+
+<img width="1034" height="597" alt="image" src="https://github.com/user-attachments/assets/596406e1-89eb-42a5-915e-aef98e72b213" />
+
+
+<img width="1920" height="1200" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/d5582420-f8aa-45b6-bcd3-8f6a27bc66c9" />
+
+
+<img width="1920" height="1200" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/9716f2c2-34ed-4a4b-b38c-bb6f4a7e3ede" />
+
+
+<img width="1920" height="1200" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/b6026de6-ca86-4bae-afcb-c16384674b78" />
+
+
+<img width="1920" height="1200" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/74ede65f-c989-4500-be2a-8986ea1b0bf4" />
+
+
+<img width="1920" height="1200" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/7dfc3bad-581e-4b47-adb8-50fdbfa8b50b" />
+
+
+<img width="1920" height="1200" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/080efbd8-268e-4851-8420-208ead1c3d8c" />
+
+
+<img width="1920" height="1080" alt="dh" src="https://github.com/user-attachments/assets/e67ebe6a-dedd-4e7f-8e90-03dd6ca16ca9" />
+
+
+<img width="1258" height="617" alt="image" src="https://github.com/user-attachments/assets/dd4e9747-9036-4094-8adc-181f9abc664d" />
+
+
+<img width="1236" height="622" alt="image" src="https://github.com/user-attachments/assets/2302d4c9-a1b6-48b5-bc7f-1b2af94a6539" />
+
+
+<img width="1247" height="569" alt="image" src="https://github.com/user-attachments/assets/a5cf59de-ae53-4222-a173-8a28e3d4ba9a" />
+
+
+<img width="1242" height="629" alt="image" src="https://github.com/user-attachments/assets/2511163f-7852-49c0-961f-8d1b5049a48a" />
+
+
+<img width="1238" height="632" alt="image" src="https://github.com/user-attachments/assets/c07d8b36-8d32-4901-8bf2-a2b369621477" />
+
+
+<img width="1227" height="610" alt="image" src="https://github.com/user-attachments/assets/3a6f26b9-c91a-4980-9592-2f9ddf7bb43b" />
+
+
+<img width="1236" height="618" alt="image" src="https://github.com/user-attachments/assets/71a20b51-33c1-484e-8e8f-4a7744e1b445" />
+
+
+<img width="1250" height="625" alt="image" src="https://github.com/user-attachments/assets/3e7fce2c-5565-4dec-a41a-b836d17c0e2e" />
+
+
+<img width="1237" height="611" alt="image" src="https://github.com/user-attachments/assets/d5e8b2b1-7f0a-4b40-b3e5-cf1ee543bc6c" />
+
+
+<img width="1848" height="1115" alt="4" src="https://github.com/user-attachments/assets/b29c8962-7617-428d-9c00-bee269ac1764" />
+
+
+<img width="1805" height="1129" alt="2" src="https://github.com/user-attachments/assets/603d083c-47b5-4984-8f09-d153277513d5" />
+
+
+<img width="1812" height="1129" alt="1" src="https://github.com/user-attachments/assets/311f29aa-3dc8-48ab-a535-16ff030d8a23" />
+<img width="369" height="654" alt="image" src="https://github.com/user-attachments/assets/d19cffd0-240c-4866-af95-8ca6b7b308e7" />
+
+<img width="1829" height="1153" alt="11" src="https://github.com/user-attachments/assets/c63e63ab-85cf-495c-bfe9-87ee19151cc8" />
+
+<img width="1778" height="1033" alt="12" src="https://github.com/user-attachments/assets/b041787b-5a15-499a-a17d-69a596e51cb0" />
+<img width="731" height="877" alt="image" src="https://github.com/user-attachments/assets/efd78964-dbcf-4c16-8967-38936e378fed" />
+
+<img width="1808" height="1128" alt="sa" src="https://github.com/user-attachments/assets/837f77f2-9840-4895-bb46-e6fa59d519d7" />
+<img width="1825" height="1117" alt="e" src="https://github.com/user-attachments/assets/c0d0a324-c942-4dd1-8484-5c5299e79809" />
+<img width="1819" height="1059" alt="qew" src="https://github.com/user-attachments/assets/aca6101a-3177-4355-9671-1caa92518f72" />
 
 ## Result: 
 
